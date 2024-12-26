@@ -1,0 +1,7 @@
+https://github.dev/module-federation/module-federation-examples
+
+
+Catatan:
+
+1. using type="module" in script while you using es6 
+

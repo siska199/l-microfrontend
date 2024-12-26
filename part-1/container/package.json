@@ -1,0 +1,20 @@
+{
+  "name": "chart-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type" : "module",
+  "scripts": {
+    "start" : "webpack serve"
+  },
+  "author": "siska199",
+  "license": "ISC",
+  "dependencies": {
+    "echarts": "^5.5.1",
+    "html-webpack-plugin": "^5.6.3",
+    "nodemon": "^3.1.9",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.0"
+  }
+}
